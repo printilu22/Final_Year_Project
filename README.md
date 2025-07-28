@@ -1,2 +1,1 @@
 # Encryption Buddy
-# Encryption Buddy
